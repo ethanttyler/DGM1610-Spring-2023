@@ -1,0 +1,15 @@
+public static void Main(string[] args) {
+
+    int number = 10;
+    string sentence = "Hi, my name is Ethan";
+    bool yesorno = false;
+    double weight = 160.57869;
+    float height = 6;
+    char letter = D;
+}
+  Console.WriteLine(number);
+  Console.WriteLine(sentence);
+  Console.WriteLine(yesorno);
+  Console.Writeline(weight);
+  Console.WriteLine(height);
+  Console.WriteLine(letter);
